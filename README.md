@@ -1,5 +1,5 @@
 Der hier vorgestellte Datengenerator versucht latente Entwicklungen in Datensätzen zu simulieren.
-Die geschieht, indem das Auftreten von Verhalten verfolgt wird, und, sofern bestimmte Verhaltens-
+Dies geschieht, indem das Auftreten von Verhalten verfolgt wird, und, sofern bestimmte Verhaltens-
 folgen eingetreten sind, Triggerfunktionen aktiviert, welche den Verhaltensverlauf der Inhalte be-
 einflussen. Diese Funktionalität lässt sich beliebig komplex erweitern und hat die Motivation, für
 Methoden zur Prognose von Entwicklungen eine Sandbox zu schaffen, in welcher Modelle wie Neuronale 
