@@ -7,3 +7,5 @@ bestimmte Verhaltensfolgen eingetreten sind.
 Die hierbei vorgestellte Funktionalität lässt sich beliebig komplex erweitern und hat die Motivation, für
 Methoden zur Prognose von Entwicklungen eine Sandbox zu schaffen, in welcher Modelle wie Neuronale 
 Netze untersucht, getestet und trainiert werden können. 
+
+The written Generator is super messy and not optimized at all.
